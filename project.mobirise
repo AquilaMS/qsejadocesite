@@ -508,7 +508,10 @@
               }
             },
             ".mbr-text, .mbr-section-btn": {
-              "text-align": "left"
+              "text-align": "center"
+            },
+            "H1": {
+              "text-align": "center"
             }
           },
           "_name": "header10",

@@ -1788,7 +1788,10 @@ body {
 }
 .cid-rmeadAld9D .mbr-text,
 .cid-rmeadAld9D .mbr-section-btn {
-  text-align: left;
+  text-align: center;
+}
+.cid-rmeadAld9D H1 {
+  text-align: center;
 }
 .cid-rfNalIGLLy {
   padding-top: 30px;
