@@ -277,6 +277,7 @@ body {
   background-color: #ffffff !important;
   border-color: #ffffff !important;
   color: #808080 !important;
+  width: 139px;
 }
 .btn-white:hover,
 .btn-white:focus,
@@ -765,7 +766,7 @@ pre {
 }
 @media (max-width: 767px) {
   .btn {
-    font-size: .75rem !important;
+    font-size: .67rem !important;
   }
   .btn .mbr-iconfont {
     font-size: 1rem !important;
