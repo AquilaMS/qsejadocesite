@@ -3675,7 +3675,7 @@ body {
 }
 @media (min-width: 992px) {
   .cid-rqjdR0seKZ .collapsed:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 5.9rem);
+    max-height: calc(98.5vh - 4.6rem);
   }
 }
 .cid-rqjdR0seKZ .collapsed button.navbar-toggler {
