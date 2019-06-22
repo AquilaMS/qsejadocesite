@@ -1858,6 +1858,65 @@ body {
     width: 100% !important;
   }
 }
+.cid-ru9nKxwBwx .divider-top {
+  position: relative;
+  padding: 2.5em;
+  background: #cf0000;
+}
+.cid-ru9nKxwBwx .divider-bottom {
+  position: relative;
+  padding: 2.5em;
+  background: #ffffff;
+}
+.cid-ru9nKxwBwx .divider-top::before,
+.cid-ru9nKxwBwx .divider-bottom::before,
+.cid-ru9nKxwBwx .divider-top::after,
+.cid-ru9nKxwBwx .divider-bottom::after {
+  position: absolute;
+  content: '';
+  pointer-events: none;
+}
+.cid-ru9nKxwBwx .divider-triangles::after {
+  left: 50%;
+  width: 100px;
+  height: 100px;
+  -webkit-transform: translateX(-50%) rotate(45deg);
+  transform: translateX(-50%) rotate(45deg);
+  bottom: -50px;
+  z-index: 10;
+  background: inherit;
+}
+.cid-ru9nKxwBwx .divider-triangles::before {
+  top: -50px;
+}
+.cid-ru9nKxwBwx .divider-halfcircle::after {
+  left: 50%;
+  z-index: 10;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background: inherit;
+  -webkit-transform: translateX(-50%);
+  transform: translateX(-50%);
+  bottom: -50px;
+}
+.cid-ru9nKxwBwx .divider-halfcircle::before {
+  top: -50px;
+}
+.cid-ru9nKxwBwx .divider-multitriangles::before,
+.cid-ru9nKxwBwx .divider-multitriangles::after {
+  left: 50%;
+  width: 50px;
+  height: 50px;
+  -webkit-transform: translateX(-50%) rotate(45deg);
+  transform: translateX(-50%) rotate(45deg);
+}
+.cid-ru9nKxwBwx .divider-multitriangles::after {
+  bottom: -25px;
+  z-index: 10;
+  background: inherit;
+  box-shadow: -50px 50px 0 #cf0000, 50px -50px 0 #cf0000;
+}
 .cid-rmwILXMAXd {
   padding-top: 90px;
   padding-bottom: 30px;
