@@ -1793,7 +1793,7 @@ body {
   color: #b2ccd2 !important;
 }
 .cid-tGsrnupJb2 {
-  background-image: url("../../../assets/images/untitled-2-1024x768.png");
+  background-image: url("../../../assets/images/untitled-2-1920x1080.png");
 }
 .cid-tGsrnupJb2 H1 {
   color: #ffffff;
@@ -1838,17 +1838,18 @@ body {
 .cid-rmwIdFItHG {
   padding-top: 45px;
   padding-bottom: 45px;
-  background-color: #cf0000;
+  background-color: #ffffff;
 }
 .cid-rmwIdFItHG .line {
-  background-color: #ffffff;
-  color: #ffffff;
+  background-color: #cf0000;
+  color: #cf0000;
   align: center;
   height: 2px;
   margin: 0 auto;
 }
 .cid-rmwIdFItHG .section-text {
   padding: 2rem 0;
+  color: #cf0000;
 }
 .cid-rmwIdFItHG .inner-container {
   margin: 0 auto;
@@ -1993,17 +1994,18 @@ body {
 .cid-rmwEtXpi9M {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #cf0000;
+  background-color: #ffffff;
 }
 .cid-rmwEtXpi9M .line {
-  background-color: #ffffff;
-  color: #ffffff;
+  background-color: #cf0000;
+  color: #cf0000;
   align: center;
   height: 2px;
   margin: 0 auto;
 }
 .cid-rmwEtXpi9M .section-text {
   padding: 2rem 0;
+  color: #cf0000;
 }
 .cid-rmwEtXpi9M .inner-container {
   margin: 0 auto;
@@ -2161,6 +2163,30 @@ body {
 .cid-rdt500CtTH .popup-btn:hover .mbr-section-btn {
   opacity: 1;
 }
+.cid-rumkJjXsgF {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-rumkJjXsgF .line {
+  background-color: #cf0000;
+  color: #cf0000;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rumkJjXsgF .section-text {
+  padding: 2rem 0;
+  color: #cf0000;
+}
+.cid-rumkJjXsgF .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rumkJjXsgF .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-rtj1eFmXmF {
   padding-top: 60px;
   padding-bottom: 0px;
@@ -2240,17 +2266,18 @@ body {
 .cid-rmwEhwtbCx {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #cf0000;
+  background-color: #ffffff;
 }
 .cid-rmwEhwtbCx .line {
-  background-color: #ffffff;
-  color: #ffffff;
+  background-color: #cf0000;
+  color: #cf0000;
   align: center;
   height: 2px;
   margin: 0 auto;
 }
 .cid-rmwEhwtbCx .section-text {
   padding: 2rem 0;
+  color: #cf0000;
 }
 .cid-rmwEhwtbCx .inner-container {
   margin: 0 auto;
@@ -2362,32 +2389,62 @@ body {
 .cid-rdt6Vj3sIO .item-name {
   color: #ffffff;
 }
-.cid-r2CKz8PC0r {
-  padding-top: 135px;
-  padding-bottom: 135px;
-  background-color: #cf0000;
+.cid-c18vjJ7FKI {
+  padding-top: 75px;
+  padding-bottom: 75px;
+  background-color: #ffffff;
 }
-.cid-r2CKz8PC0r h4 {
-  text-align: left;
-  font-weight: 500;
+.cid-c18vjJ7FKI .mbr-text {
+  color: #716c80;
 }
-.cid-r2CKz8PC0r p {
-  color: #767676;
-  text-align: left;
+.cid-c18vjJ7FKI .card-wrapper {
+  display: flex;
+  flex-direction: row;
+  border-radius: 10px;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  transition: all 0.3s;
+  padding: 1rem 1rem !important;
+  box-shadow: 0 10px 55px 5px rgba(137, 173, 255, 0.35);
 }
-.cid-r2CKz8PC0r .card-img {
-  text-align: left;
+.cid-c18vjJ7FKI .card-wrapper:hover {
+  transform: translateY(-1rem);
 }
-.cid-r2CKz8PC0r .card-img span {
-  font-size: 72px;
-  color: #707070;
+.cid-c18vjJ7FKI .card-wrapper:hover .ico2 {
+  color: #cf0000 !important;
 }
-.cid-r2CKz8PC0r P {
-  color: #ffffff;
+.cid-c18vjJ7FKI .text-info:hover {
+  color: inherit!important;
 }
-.cid-r2CKz8PC0r .card-title,
-.cid-r2CKz8PC0r .card-img {
-  color: #ffffff;
+.cid-c18vjJ7FKI .ico2 {
+  color: #7f1933 !important;
+  transition: all 0.6s;
+}
+.cid-c18vjJ7FKI .card-box {
+  padding: 0rem 1rem;
+}
+.cid-c18vjJ7FKI .ico1 {
+  font-size: 3rem !important;
+}
+.cid-c18vjJ7FKI h3,
+.cid-c18vjJ7FKI h4 {
+  padding: 0;
+  margin: 0;
+}
+.cid-c18vjJ7FKI .card-title,
+.cid-c18vjJ7FKI .card-img {
+  color: #57468b;
+}
+.cid-c18vjJ7FKI .card-title {
+  color: #cf0000;
+}
+.cid-c18vjJ7FKI H1 {
+  color: #cf0000;
+}
+.cid-c18vjJ7FKI .text,
+.cid-c18vjJ7FKI .mbr-section-btn {
+  color: #716c80;
 }
 .cid-4ubk3iVEQj .divider-top {
   position: relative;
