@@ -2389,6 +2389,30 @@ body {
 .cid-rdt6Vj3sIO .item-name {
   color: #ffffff;
 }
+.cid-rumnTZnoJD {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-rumnTZnoJD .line {
+  background-color: #cf0000;
+  color: #cf0000;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rumnTZnoJD .section-text {
+  padding: 2rem 0;
+  color: #cf0000;
+}
+.cid-rumnTZnoJD .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rumnTZnoJD .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-c18vjJ7FKI {
   padding-top: 75px;
   padding-bottom: 75px;
@@ -2446,65 +2470,6 @@ body {
 .cid-c18vjJ7FKI .mbr-section-btn {
   color: #716c80;
 }
-.cid-4ubk3iVEQj .divider-top {
-  position: relative;
-  padding: 2.5em;
-  background: #cf0000;
-}
-.cid-4ubk3iVEQj .divider-bottom {
-  position: relative;
-  padding: 2.5em;
-  background: #ffffff;
-}
-.cid-4ubk3iVEQj .divider-top::before,
-.cid-4ubk3iVEQj .divider-bottom::before,
-.cid-4ubk3iVEQj .divider-top::after,
-.cid-4ubk3iVEQj .divider-bottom::after {
-  position: absolute;
-  content: '';
-  pointer-events: none;
-}
-.cid-4ubk3iVEQj .divider-triangles::after {
-  left: 50%;
-  width: 100px;
-  height: 100px;
-  -webkit-transform: translateX(-50%) rotate(45deg);
-  transform: translateX(-50%) rotate(45deg);
-  bottom: -50px;
-  z-index: 10;
-  background: inherit;
-}
-.cid-4ubk3iVEQj .divider-triangles::before {
-  top: -50px;
-}
-.cid-4ubk3iVEQj .divider-halfcircle::after {
-  left: 50%;
-  z-index: 10;
-  width: 100px;
-  height: 100px;
-  border-radius: 50%;
-  background: inherit;
-  -webkit-transform: translateX(-50%);
-  transform: translateX(-50%);
-  bottom: -50px;
-}
-.cid-4ubk3iVEQj .divider-halfcircle::before {
-  top: -50px;
-}
-.cid-4ubk3iVEQj .divider-multitriangles::before,
-.cid-4ubk3iVEQj .divider-multitriangles::after {
-  left: 50%;
-  width: 50px;
-  height: 50px;
-  -webkit-transform: translateX(-50%) rotate(45deg);
-  transform: translateX(-50%) rotate(45deg);
-}
-.cid-4ubk3iVEQj .divider-multitriangles::after {
-  bottom: -25px;
-  z-index: 10;
-  background: inherit;
-  box-shadow: -50px 50px 0 #cf0000, 50px -50px 0 #cf0000;
-}
 .cid-rme09c67Y1 {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -2558,6 +2523,9 @@ body {
   .cid-rme09c67Y1 div.left-block.wrapper {
     padding-bottom: 3rem;
   }
+}
+.cid-rme09c67Y1 H2 {
+  color: #cf0000;
 }
 .cid-rdrqcpNL2Z {
   padding-top: 90px;
