@@ -2125,8 +2125,8 @@ body {
 }
 .cid-rdt6Vj3sIO {
   padding-top: 30px;
-  padding-bottom: 90px;
-  background-color: #efefef;
+  padding-bottom: 0px;
+  background-color: #cf0000;
 }
 .cid-rdt6Vj3sIO .mbr-section-subtitle {
   color: #767676;
@@ -2161,7 +2161,7 @@ body {
   font-size: 17px;
 }
 .cid-rdt6Vj3sIO .team-item .item-caption {
-  background: #efefef;
+  background: #ffffff;
 }
 .cid-rdt6Vj3sIO .item-name {
   color: #232323;
@@ -2334,7 +2334,7 @@ body {
 .cid-rdrtP0yJAv {
   padding-top: 120px;
   padding-bottom: 120px;
-  background: linear-gradient(0deg, #cf0000, #d03b3b);
+  background: linear-gradient(0deg, #ec0b0b, #d03b3b);
 }
 .cid-rdrtP0yJAv .mbr-iconfont-social {
   font-size: 32px;
